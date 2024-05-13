@@ -1,6 +1,9 @@
 # PartIII RPC Project Tools
 
-## Sections
+####IMPORTANT NOTE:
+This is a fork from the main branch of https://github.com/PatrickC12/PartIIIRPC, which containted the student's name.
+
+All Pro-ANUBIS analysis by 8229V was done under the ProAnubis_CERN folder
 
 ### Scripts
 Includes functions commonly used throughout the analysis, aiding in data manipulation and visualization.
