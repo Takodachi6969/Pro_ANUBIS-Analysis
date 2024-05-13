@@ -1,7 +1,7 @@
 # PartIII RPC Project Tools
 
 # IMPORTANT NOTE:
-This is a fork from the main branch of https://github.com/PatrickC12/PartIIIRPC, which containted the student's name.
+This is a fork from the main branch of https://github.com/PatrickC12/PartIIIRPC, which containted one of the student's name in the link (I am not Patrick12 BTW).
 
 All Pro-ANUBIS analysis by 8229V was done under the ProAnubis_CERN folder
 
